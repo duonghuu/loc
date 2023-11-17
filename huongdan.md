@@ -1,6 +1,9 @@
 admin
 pass: q0iAc@YN2OoS3Q8JfS
 
+## Khách hàng thân thiết
+![Alt text](https://i.imgur.com/iBiQGq9.jpeg)
+
 ## Sửa menu
 
 - giao diện -> menu
