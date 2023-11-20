@@ -1,6 +1,9 @@
 admin
 pass: q0iAc@YN2OoS3Q8JfS
 
+## Mô tả thanh toán
+![Alt text](https://i.imgur.com/0aAFRUI.jpeg)
+
 ## Dịch
 ![Alt text](https://i.imgur.com/Z0qsJz7.jpeg)
 
