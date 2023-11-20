@@ -1,6 +1,17 @@
 admin
 pass: q0iAc@YN2OoS3Q8JfS
 
+## Dịch
+![Alt text](https://i.imgur.com/Z0qsJz7.jpeg)
+
+![Alt text](https://i.imgur.com/bAK3CQj.jpeg)
+
+- Chọn Tiếng Việt
+
+![Alt text](https://i.imgur.com/woYgkux.jpeg)
+
+![Alt text](https://i.imgur.com/M3q7BZy.jpeg)
+
 ## Khách hàng thân thiết
 ![Alt text](https://i.imgur.com/iBiQGq9.jpeg)
 
