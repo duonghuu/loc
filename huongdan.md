@@ -12,6 +12,8 @@ pass: q0iAc@YN2OoS3Q8JfS
 
 ![Alt text](https://i.imgur.com/woYgkux.jpeg)
 
+- Chỗ nào cần dịch thì vô đây tìm nha
+
 ![Alt text](https://i.imgur.com/M3q7BZy.jpeg)
 
 ## Khách hàng thân thiết
