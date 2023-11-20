@@ -4,6 +4,8 @@ pass: q0iAc@YN2OoS3Q8JfS
 ## Dịch
 ![Alt text](https://i.imgur.com/Z0qsJz7.jpeg)
 
+- Chọn
+
 ![Alt text](https://i.imgur.com/bAK3CQj.jpeg)
 
 - Chọn Tiếng Việt
